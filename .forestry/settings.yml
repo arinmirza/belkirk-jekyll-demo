@@ -7,7 +7,6 @@ sections:
 - type: document
   path: ''
   label: Güvercin Docs
-  match: "**/*"
 - type: heading
   label: Content
 - type: jekyll-posts
